@@ -3,7 +3,7 @@
 	src: url(../fonts/Inter-Black.woff2) format('woff2'),
 	url(../fonts/Inter-Black.woff) format('woff');
 	font-family: 'inter';
-    font-weight: black;
+    font-weight: 900;
 }
  
 @font-face {
