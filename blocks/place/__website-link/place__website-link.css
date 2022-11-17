@@ -9,5 +9,5 @@
     transition: opacity .2s linear;
 }
 .place__website-link:hover {
-    opacity: 0.5;
+    opacity: 0.8;
 }
