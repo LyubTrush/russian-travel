@@ -7,3 +7,9 @@
    font-style: normal;
    max-width: 690px;
 }
+
+@media screen and (max-width: 1023px) {
+   .intro__text {
+      max-width: 100%;
+ }
+}
